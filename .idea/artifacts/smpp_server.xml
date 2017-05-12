@@ -1,0 +1,31 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="smpp-server">
+    <output-path>$PROJECT_DIR$/out/artifacts/smpp-server</output-path>
+    <root id="root">
+      <element id="directory" name="classes">
+        <element id="module-output" name="core" />
+        <element id="module-output" name="Database" />
+        <element id="module-output" name="Receiver" />
+      </element>
+      <element id="directory" name="libs">
+        <element id="file-copy" path="$PROJECT_DIR$/../Common/commons-logging-1.1.1.jar" />
+        <element id="file-copy" path="$PROJECT_DIR$/../Common/commons-configuration-1.6.jar" />
+        <element id="file-copy" path="$PROJECT_DIR$/../Common/commons-codec-1.6.jar" />
+        <element id="file-copy" path="$PROJECT_DIR$/../Common/commons-collections-3.1.jar" />
+        <element id="file-copy" path="$PROJECT_DIR$/../Common/commons-discovery-0.2.jar" />
+        <element id="file-copy" path="$PROJECT_DIR$/../Common/commons-lang-2.3.jar" />
+        <element id="file-copy" path="$PROJECT_DIR$/../Common/commons-lang3-3.1.jar" />
+        <element id="file-copy" path="$PROJECT_DIR$/../Common/log4j-1.2.12.jar" />
+        <element id="file-copy" path="$PROJECT_DIR$/../Common/ucp.jar" />
+        <element id="file-copy" path="$PROJECT_DIR$/../Common/ojdbc8.jar" />
+      </element>
+      <element id="directory" name="conf">
+        <element id="module-output" name="conf" />
+      </element>
+      <element id="directory" name="log" />
+      <element id="file-copy" path="$PROJECT_DIR$/Receiver/cmd/smpp-server" />
+      <element id="file-copy" path="$PROJECT_DIR$/Receiver/cmd/smpp-server.sh" />
+      <element id="file-copy" path="$PROJECT_DIR$/Receiver/cmd/smpp-console.sh" />
+    </root>
+  </artifact>
+</component>

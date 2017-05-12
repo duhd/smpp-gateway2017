@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Database/Database.iml" filepath="$PROJECT_DIR$/Database/Database.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Forwarder/Forwarder.iml" filepath="$PROJECT_DIR$/Forwarder/Forwarder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Receiver/Receiver.iml" filepath="$PROJECT_DIR$/Receiver/Receiver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/conf/conf.iml" filepath="$PROJECT_DIR$/conf/conf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core/core.iml" filepath="$PROJECT_DIR$/core/core.iml" />
+    </modules>
+  </component>
+</project>
+

@@ -1,0 +1,218 @@
+2017-05-09 11:03:22,327> SMS Gateway Start!-----------------------------------------------------------------------------------------------
+2017-05-09 11:03:22,350> Oracle Initializes the connection pooling
+2017-05-09 11:03:22,614> Starting traffic watcher...
+2017-05-09 11:03:22,657> Forwarder: [vnpaytest] Bind request (bindreq: (pdu: 0 9 0 [1]) VNPTEST2 VNPTEST2 smpp 52 (addrrang: 1 1 ) ) 
+2017-05-09 11:03:23,669> Forwarder: [vnpaytest] Bind operation failed. java.net.ConnectException: Connection refused: connect
+2017-05-09 11:03:25,714> Forwarder: [vnpaytest] Restart Gateway...
+2017-05-09 11:03:25,714> Forwarder: [vnpaytest] Not bound, cannot unbind.
+2017-05-09 11:03:30,691> Forwarder: [vnpaytest] Bind request (bindreq: (pdu: 0 9 0 [1]) VNPTEST2 VNPTEST2 smpp 52 (addrrang: 1 1 ) ) 
+2017-05-09 11:03:30,693> SMS Gateway Shutdown!
+2017-05-09 17:41:35,371> SMS Gateway Start!-----------------------------------------------------------------------------------------------
+2017-05-09 17:41:35,391> Oracle Initializes the connection pooling
+2017-05-09 17:41:35,654> Starting traffic watcher...
+2017-05-09 17:41:35,700> Forwarder: [vnpay1] Bind request (bindreq: (pdu: 0 9 0 [1]) vnpay1 vnpay@123 smpp 52 (addrrang: 1 1 ) ) 
+2017-05-09 17:41:38,754> Forwarder: [vnpay1] Restart Gateway...
+2017-05-09 17:41:38,754> Forwarder: [vnpay1] Not bound, cannot unbind.
+2017-05-09 17:41:50,756> [vnpay1] Sending cmd (ENQUIRE_LINK): Failed, not bind
+2017-05-09 17:41:50,756> Forwarder: [vnpay1] Not bound, cannot unbind.
+2017-05-09 17:41:53,755> Forwarder: [vnpay1] Bind request (bindreq: (pdu: 0 9 0 [2]) vnpay1 vnpay@123 smpp 52 (addrrang: 1 1 ) ) 
+2017-05-09 17:42:05,756> Forwarder: [vnpay1] Bind request (bindreq: (pdu: 0 9 0 [3]) vnpay1 vnpay@123 smpp 52 (addrrang: 1 1 ) ) 
+2017-05-09 17:42:35,727> Forwarder: [vnpay1] Bind operation failed. java.lang.NullPointerException
+2017-05-09 17:43:05,760> Forwarder: [vnpay1] Bind operation failed. java.lang.NullPointerException
+2017-05-09 17:43:20,760> [vnpay1] Sending cmd (ENQUIRE_LINK): Failed, not bind
+2017-05-09 17:43:20,760> Forwarder: [vnpay1] Not bound, cannot unbind.
+2017-05-09 17:43:35,760> Forwarder: [vnpay1] Bind request (bindreq: (pdu: 0 9 0 [4]) vnpay1 vnpay@123 smpp 52 (addrrang: 1 1 ) ) 
+2017-05-09 17:43:53,759> Forwarder: [vnpay1] Bind operation failed. java.lang.NullPointerException
+2017-05-09 17:43:53,759> Forwarder: [vnpay1] Restart Gateway...
+2017-05-09 17:43:53,759> Forwarder: [vnpay1] Not bound, cannot unbind.
+2017-05-09 17:44:08,760> Forwarder: [vnpay1] Bind request (bindreq: (pdu: 0 9 0 [5]) vnpay1 vnpay@123 smpp 52 (addrrang: 1 1 ) ) 
+2017-05-09 17:44:14,626> SMS Gateway Shutdown!
+2017-05-09 17:45:35,766> Forwarder: [vnpay1] Bind operation failed. java.lang.NullPointerException
+2017-05-09 17:46:59,047> SMS Gateway Start!-----------------------------------------------------------------------------------------------
+2017-05-09 17:46:59,062> Oracle Initializes the connection pooling
+2017-05-09 17:46:59,281> Starting traffic watcher...
+2017-05-09 17:46:59,312> Forwarder: [vnpay1] Bind request (bindreq: (pdu: 0 9 0 [1]) vnpay1 vnpay@123 smpp 52 (addrrang: 1 1 ) ) 
+2017-05-09 17:46:59,334> Forwarder: [vnpay1] Bind operation failed. java.io.EOFException: Reached end of stream
+2017-05-09 17:47:02,380> Forwarder: [vnpay1] Restart Gateway...
+2017-05-09 17:47:02,380> Forwarder: [vnpay1] Not bound, cannot unbind.
+2017-05-09 17:47:14,382> [vnpay1] Sending cmd (ENQUIRE_LINK): Failed, not bind
+2017-05-09 17:47:14,383> Forwarder: [vnpay1] Not bound, cannot unbind.
+2017-05-09 17:47:17,381> Forwarder: [vnpay1] Bind request (bindreq: (pdu: 0 9 0 [2]) vnpay1 vnpay@123 smpp 52 (addrrang: 1 1 ) ) 
+2017-05-09 17:47:18,392> Forwarder: [vnpay1] Bind operation failed. java.net.ConnectException: Connection refused: connect
+2017-05-09 17:47:18,392> Forwarder: [vnpay1] Restart Gateway...
+2017-05-09 17:47:18,393> Forwarder: [vnpay1] Not bound, cannot unbind.
+2017-05-09 17:47:29,384> Forwarder: [vnpay1] Bind request (bindreq: (pdu: 0 9 0 [2]) vnpay1 vnpay@123 smpp 52 (addrrang: 1 1 ) ) 
+2017-05-09 17:47:30,389> Forwarder: [vnpay1] Bind operation failed. java.net.ConnectException: Connection refused: connect
+2017-05-09 17:47:33,394> Forwarder: [vnpay1] Bind request (bindreq: (pdu: 0 9 0 [2]) vnpay1 vnpay@123 smpp 52 (addrrang: 1 1 ) ) 
+2017-05-09 17:47:34,397> Forwarder: [vnpay1] Bind operation failed. java.net.ConnectException: Connection refused: connect
+2017-05-09 17:47:34,397> Forwarder: [vnpay1] Restart Gateway...
+2017-05-09 17:47:34,397> Forwarder: [vnpay1] Not bound, cannot unbind.
+2017-05-09 17:47:45,390> [vnpay1] Sending cmd (ENQUIRE_LINK): Failed, not bind
+2017-05-09 17:47:45,390> Forwarder: [vnpay1] Not bound, cannot unbind.
+2017-05-09 17:47:49,397> Forwarder: [vnpay1] Bind request (bindreq: (pdu: 0 9 0 [2]) vnpay1 vnpay@123 smpp 52 (addrrang: 1 1 ) ) 
+2017-05-09 17:47:50,406> Forwarder: [vnpay1] Bind operation failed. java.net.ConnectException: Connection refused: connect
+2017-05-09 17:47:50,406> Forwarder: [vnpay1] Restart Gateway...
+2017-05-09 17:47:50,406> Forwarder: [vnpay1] Not bound, cannot unbind.
+2017-05-09 17:48:00,390> Forwarder: [vnpay1] Bind request (bindreq: (pdu: 0 9 0 [2]) vnpay1 vnpay@123 smpp 52 (addrrang: 1 1 ) ) 
+2017-05-09 17:48:01,393> Forwarder: [vnpay1] Bind operation failed. java.net.ConnectException: Connection refused: connect
+2017-05-09 17:48:05,407> Forwarder: [vnpay1] Bind request (bindreq: (pdu: 0 9 0 [2]) vnpay1 vnpay@123 smpp 52 (addrrang: 1 1 ) ) 
+2017-05-09 17:48:06,411> Forwarder: [vnpay1] Bind operation failed. java.net.ConnectException: Connection refused: connect
+2017-05-09 17:48:06,411> Forwarder: [vnpay1] Restart Gateway...
+2017-05-09 17:48:06,411> Forwarder: [vnpay1] Not bound, cannot unbind.
+2017-05-09 17:48:16,394> [vnpay1] Sending cmd (ENQUIRE_LINK): Failed, not bind
+2017-05-09 17:48:16,394> Forwarder: [vnpay1] Not bound, cannot unbind.
+2017-05-09 17:48:16,504> SMS Gateway Shutdown!
+2017-05-09 17:48:16,504> Forwarder: [vnpay1] Bind request (bindreq: (pdu: 0 9 0 [2]) vnpay1 vnpay@123 smpp 52 (addrrang: 1 1 ) ) 
+2017-05-09 17:48:16,504> Forwarder: [vnpay1] Bind request (bindreq: (pdu: 0 9 0 [2]) vnpay1 vnpay@123 smpp 52 (addrrang: 1 1 ) ) 
+2017-05-09 17:48:16,505> SMS Gateway Shutdown!
+2017-05-09 18:01:44,137> SMS Gateway Start!-----------------------------------------------------------------------------------------------
+2017-05-09 18:01:44,152> Oracle Initializes the connection pooling
+2017-05-09 18:01:44,351> Starting traffic watcher...
+2017-05-09 18:01:44,385> Forwarder: [vnpay1] Bind request (bindreq: (pdu: 0 9 0 [1]) vnpay1 vnpay@123 smpp 52 (addrrang: 1 1 ) ) 
+2017-05-09 18:01:45,394> Forwarder: [vnpay1] Bind operation failed. java.net.ConnectException: Connection refused: connect
+2017-05-09 18:01:47,450> Forwarder: [vnpay1] Restart Gateway...
+2017-05-09 18:01:47,450> Forwarder: [vnpay1] Not bound, cannot unbind.
+2017-05-09 18:01:59,452> [vnpay1] Sending cmd (ENQUIRE_LINK): Failed, not bind
+2017-05-09 18:01:59,452> Forwarder: [vnpay1] Not bound, cannot unbind.
+2017-05-09 18:02:02,451> Forwarder: [vnpay1] Bind request (bindreq: (pdu: 0 9 0 [1]) vnpay1 vnpay@123 smpp 52 (addrrang: 1 1 ) ) 
+2017-05-09 18:02:03,456> Forwarder: [vnpay1] Bind operation failed. java.net.ConnectException: Connection refused: connect
+2017-05-09 18:02:03,457> Forwarder: [vnpay1] Restart Gateway...
+2017-05-09 18:02:03,457> Forwarder: [vnpay1] Not bound, cannot unbind.
+2017-05-09 18:02:14,454> Forwarder: [vnpay1] Bind request (bindreq: (pdu: 0 9 0 [1]) vnpay1 vnpay@123 smpp 52 (addrrang: 1 1 ) ) 
+2017-05-09 18:02:18,457> Forwarder: [vnpay1] Bind request (bindreq: (pdu: 0 9 0 [2]) vnpay1 vnpay@123 smpp 52 (addrrang: 1 1 ) ) 
+2017-05-09 18:03:14,473> Forwarder: [vnpay1] Bind operation failed. java.lang.NullPointerException
+2017-05-09 18:03:16,453> SMS Gateway Shutdown!
+2017-05-09 18:03:18,462> Forwarder: [vnpay1] Bind operation failed. java.lang.NullPointerException
+2017-05-09 18:03:18,464> SMS Gateway Shutdown!
+2017-05-09 18:03:48,680> SMS Gateway Start!-----------------------------------------------------------------------------------------------
+2017-05-09 18:03:48,694> Oracle Initializes the connection pooling
+2017-05-09 18:03:48,892> Starting traffic watcher...
+2017-05-09 18:03:48,930> Forwarder: [vnpay1] Bind request (bindreq: (pdu: 0 9 0 [1]) vnpay1 vnpay@123 smpp 52 (addrrang: 1 1 ) ) 
+2017-05-09 18:03:51,991> Forwarder: [vnpay1] Restart Gateway...
+2017-05-09 18:03:51,991> Forwarder: [vnpay1] Not bound, cannot unbind.
+2017-05-09 18:04:03,992> [vnpay1] Sending cmd (ENQUIRE_LINK): Failed, not bind
+2017-05-09 18:04:03,992> Forwarder: [vnpay1] Not bound, cannot unbind.
+2017-05-09 18:04:06,992> Forwarder: [vnpay1] Bind request (bindreq: (pdu: 0 9 0 [2]) vnpay1 vnpay@123 smpp 52 (addrrang: 1 1 ) ) 
+2017-05-09 18:04:18,992> Forwarder: [vnpay1] Bind request (bindreq: (pdu: 0 9 0 [3]) vnpay1 vnpay@123 smpp 52 (addrrang: 1 1 ) ) 
+2017-05-09 18:04:48,948> Forwarder: [vnpay1] Bind operation failed. java.lang.NullPointerException
+2017-05-09 18:04:52,903> SMS Gateway Shutdown!
+2017-05-09 18:05:06,995> Forwarder: [vnpay1] Bind operation failed. java.lang.NullPointerException
+2017-05-09 18:05:06,995> Forwarder: [vnpay1] Restart Gateway...
+2017-05-09 18:05:06,995> Forwarder: [vnpay1] Not bound, cannot unbind.
+2017-05-09 18:05:18,995> Forwarder: [vnpay1] Bind operation failed. java.lang.NullPointerException
+2017-05-09 18:05:18,996> SMS Gateway Shutdown!
+2017-05-09 18:21:27,656> SMS Gateway Start!-----------------------------------------------------------------------------------------------
+2017-05-09 18:21:27,671> Oracle Initializes the connection pooling
+2017-05-09 18:21:27,875> Starting traffic watcher...
+2017-05-09 18:21:27,906> Forwarder: [vnpay1] Bind request (bindreq: (pdu: 0 9 0 [1]) vnpay1 vnpay@123 smpp 52 (addrrang: 1 1 ) ) 
+2017-05-09 18:21:30,975> Forwarder: [vnpay1] Restart Gateway...
+2017-05-09 18:21:30,975> Forwarder: [vnpay1] Not bound, cannot unbind.
+2017-05-09 18:21:42,976> [vnpay1] Sending cmd (ENQUIRE_LINK): Failed, not bind
+2017-05-09 18:21:42,976> Forwarder: [vnpay1] Not bound, cannot unbind.
+2017-05-09 18:21:45,975> Forwarder: [vnpay1] Bind request (bindreq: (pdu: 0 9 0 [2]) vnpay1 vnpay@123 smpp 52 (addrrang: 1 1 ) ) 
+2017-05-09 18:21:55,551> SMS Gateway Shutdown!
+2017-05-09 18:21:55,551> Forwarder: [vnpay1] Bind request (bindreq: (pdu: 0 9 0 [3]) vnpay1 vnpay@123 smpp 52 (addrrang: 1 1 ) ) 
+2017-05-09 18:22:27,925> Forwarder: [vnpay1] Bind operation failed. java.lang.NullPointerException
+2017-05-09 18:22:45,978> Forwarder: [vnpay1] Bind operation failed. java.lang.NullPointerException
+2017-05-09 18:22:45,979> SMS Gateway Shutdown!
+2017-05-09 18:35:37,860> SMS Gateway Start!-----------------------------------------------------------------------------------------------
+2017-05-09 18:35:37,876> Oracle Initializes the connection pooling
+2017-05-09 18:35:38,078> Starting traffic watcher...
+2017-05-09 18:35:38,111> Forwarder: [vnpay] Bind request (bindreq: (pdu: 0 9 0 [1]) VNPTEST2 VNPTEST2 smpp 52 (addrrang: 1 1 ) ) 
+2017-05-09 18:35:38,337> Forwarder: [vnpay] Bind response (bindresp: (pdu: 29 80000009 0 1) Inetlab.SMPP) 
+2017-05-09 18:35:53,180> Forwarder: [vnpay] Enquire Link request (enquirelink: (pdu: 0 15 0 [2]) ) 
+2017-05-09 18:35:53,184> Forwarder: [vnpay] Received response PDU (enquirelink_resp: (pdu: 16 80000015 0 2) ) 
+2017-05-09 18:36:29,216> SMS Gateway Shutdown!
+2017-05-09 18:36:29,216> Forwarder: [vnpay] It can take a while to stop the receiver. PLEASE WAIT...
+2017-05-09 18:36:59,218> Forwarder: [vnpay] Enquire Link operation failed. java.lang.NullPointerException
+2017-05-09 18:36:59,218> Forwarder: [vnpay] Retry binding...
+2017-05-09 18:36:59,218> Forwarder: [vnpay] Unbind operation failed: java.lang.NullPointerException
+2017-05-09 18:36:59,219> Forwarder: [vnpay] Bind request (bindreq: (pdu: 0 9 0 [4]) VNPTEST2 VNPTEST2 smpp 52 (addrrang: 1 1 ) ) 
+2017-05-09 18:36:59,219> SMS Gateway Shutdown!
+2017-05-09 18:41:46,179> SMS Gateway Start!-----------------------------------------------------------------------------------------------
+2017-05-09 18:41:46,194> Oracle Initializes the connection pooling
+2017-05-09 18:41:46,398> Starting traffic watcher...
+2017-05-09 18:41:46,432> Forwarder: [vnpay] Bind request (bindreq: (pdu: 0 9 0 [1]) VNPTEST2 VNPTEST2 smpp 52 (addrrang: 1 1 ) ) 
+2017-05-09 18:41:46,521> Forwarder: [vnpay] Bind response (bindresp: (pdu: 29 80000009 0 1) Inetlab.SMPP) 
+2017-05-09 18:42:01,501> Forwarder: [vnpay] Enquire Link request (enquirelink: (pdu: 0 15 0 [2]) ) 
+2017-05-09 18:42:01,503> Forwarder: [vnpay] Received response PDU (enquirelink_resp: (pdu: 16 80000015 0 2) ) 
+2017-05-09 18:43:10,276> Forwarder: [vnpay] Enquire Link operation failed. java.lang.NullPointerException
+2017-05-09 18:43:10,276> Forwarder: [vnpay] Retry binding...
+2017-05-09 18:43:10,277> Forwarder: [vnpay] Received request PDU (deliver: (pdu: 64 5 0 1) (addr: 0 0 ewknfdw)  (addr: 1 1 fsdfsdf)  (sm: msg: fwn fwfdk ewjdlwe)  (opt: ) ) 
+2017-05-09 18:43:10,277> Forwarder: [vnpay] Insert to log table DELIVER_SM and Insert to MO_Queue here ...
+2017-05-09 18:43:10,277> Forwarder: [vnpay] Unbind response (unbind_resp: (pdu: 16 80000006 0 3) ) 
+2017-05-09 18:43:10,277> Forwarder: [vnpay] Bind request (bindreq: (pdu: 0 9 0 [4]) VNPTEST2 VNPTEST2 smpp 52 (addrrang: 1 1 ) ) 
+2017-05-09 18:43:10,278> Forwarder: [vnpay] Response PDU (deliver_resp: (pdu: 0 80000005 0 1)  ) 
+2017-05-09 18:43:10,278> Forwarder: [vnpay] Receiving failed. java.lang.NullPointerException
+2017-05-09 18:43:10,278> Forwarder: [vnpay] Restart Gateway...
+2017-05-09 18:43:10,278> Forwarder: [vnpay] Not bound, cannot unbind.
+2017-05-09 18:43:10,396> Forwarder: [vnpay] Bind response (bindresp: (pdu: 29 80000009 0 4) Inetlab.SMPP) 
+2017-05-09 18:43:25,279> Forwarder: [vnpay] Already bound, unbind first.
+2017-05-09 18:43:25,417> Forwarder: [vnpay] Enquire Link request (enquirelink: (pdu: 0 15 0 [5]) ) 
+2017-05-09 18:43:25,418> Forwarder: [vnpay] Received response PDU (enquirelink_resp: (pdu: 16 80000015 0 5) ) 
+2017-05-09 18:44:27,018> Forwarder: [vnpay] Received request PDU (unbind: (pdu: 16 6 0 1) ) 
+2017-05-09 18:44:27,018> Forwarder: [vnpay] Response PDU (unbind_resp: (pdu: 0 80000006 0 1) ) 
+2017-05-09 18:44:27,018> Forwarder: [vnpay] Enquire Link operation failed. java.lang.NullPointerException
+2017-05-09 18:44:27,018> Forwarder: [vnpay] Retry binding...
+2017-05-09 18:44:27,020> Forwarder: [vnpay] Received response PDU (unbind_resp: (pdu: 16 80000006 0 6) ) 
+2017-05-09 18:45:07,349> SMS Gateway Shutdown!
+2017-05-09 18:45:43,450> SMS Gateway Start!-----------------------------------------------------------------------------------------------
+2017-05-09 18:45:43,468> Oracle Initializes the connection pooling
+2017-05-09 18:45:43,713> Starting traffic watcher...
+2017-05-09 18:45:43,751> Forwarder: [vnpay] Bind request (bindreq: (pdu: 0 9 0 [1]) VNPTEST2 VNPTEST2 smpp 52 (addrrang: 1 1 ) ) 
+2017-05-09 18:45:43,892> Forwarder: [vnpay] Bind response (bindresp: (pdu: 29 80000009 0 1) Inetlab.SMPP) 
+2017-05-09 18:45:50,120> Forwarder: [vnpay] Received request PDU (unbind: (pdu: 16 6 0 1) ) 
+2017-05-09 18:45:50,120> Forwarder: [vnpay] Response PDU (unbind_resp: (pdu: 0 80000006 0 1) ) 
+2017-05-09 18:45:58,816> Forwarder: [vnpay] Enquire Link request (enquirelink: (pdu: 0 15 0 [2]) ) 
+2017-05-09 18:45:58,816> Forwarder: [vnpay] Enquire Link operation failed. java.io.IOException: Not connected
+2017-05-09 18:45:58,817> Forwarder: [vnpay] Retry binding...
+2017-05-09 18:45:58,817> Forwarder: [vnpay] Unbind operation failed: java.io.IOException: Not connected
+2017-05-09 18:45:58,817> Forwarder: [vnpay] Bind request (bindreq: (pdu: 0 9 0 [4]) VNPTEST2 VNPTEST2 smpp 52 (addrrang: 1 1 ) ) 
+2017-05-09 18:45:58,837> Forwarder: [vnpay] Bind response (bindresp: (pdu: 29 80000009 0 4) Inetlab.SMPP) 
+2017-05-09 18:46:13,858> Forwarder: [vnpay] Enquire Link request (enquirelink: (pdu: 0 15 0 [5]) ) 
+2017-05-09 18:46:13,859> [127.0.0.1-null] PDU received: Seq:5 PDU Buffer size:2
+2017-05-09 18:46:13,861> Forwarder: [vnpay] Enquire Link response (enquirelink_resp: (pdu: 16 80000015 0 5) ) 
+2017-05-09 18:46:28,861> Forwarder: [vnpay] Enquire Link request (enquirelink: (pdu: 0 15 0 [6]) ) 
+2017-05-09 18:46:28,861> [127.0.0.1-null] PDU received: Seq:6 PDU Buffer size:2
+2017-05-09 18:46:28,862> Forwarder: [vnpay] Enquire Link response (enquirelink_resp: (pdu: 16 80000015 0 6) ) 
+2017-05-09 18:46:43,863> Forwarder: [vnpay] Enquire Link request (enquirelink: (pdu: 0 15 0 [7]) ) 
+2017-05-09 18:46:43,864> [127.0.0.1-null] PDU received: Seq:7 PDU Buffer size:1
+2017-05-09 18:46:43,864> Forwarder: [vnpay] Enquire Link response (enquirelink_resp: (pdu: 16 80000015 0 7) ) 
+2017-05-09 18:46:58,864> Forwarder: [vnpay] Enquire Link request (enquirelink: (pdu: 0 15 0 [8]) ) 
+2017-05-09 18:46:58,865> [127.0.0.1-null] PDU received: Seq:8 PDU Buffer size:2
+2017-05-09 18:46:58,865> Forwarder: [vnpay] Enquire Link response (enquirelink_resp: (pdu: 16 80000015 0 8) ) 
+2017-05-09 18:47:05,925> SMS Gateway Shutdown!
+2017-05-09 18:47:05,926> [127.0.0.1-null] PDU received: Seq:9 PDU Buffer size:2
+2017-05-09 18:47:05,927> Forwarder: [vnpay] Unbind response (unbind_resp: (pdu: 16 80000006 0 9) ) 
+2017-05-09 18:47:05,928> SMS Gateway Shutdown!
+2017-05-09 18:47:12,733> SMS Gateway Start!-----------------------------------------------------------------------------------------------
+2017-05-09 18:47:12,748> Oracle Initializes the connection pooling
+2017-05-09 18:47:12,944> Starting traffic watcher...
+2017-05-09 18:47:12,985> Forwarder: [vnpay] Bind request (bindreq: (pdu: 0 9 0 [1]) VNPTEST2 VNPTEST2 smpp 52 (addrrang: 1 1 ) ) 
+2017-05-09 18:47:13,071> Forwarder: [vnpay] Bind response (bindresp: (pdu: 29 80000009 0 1) Inetlab.SMPP) 
+2017-05-09 18:47:21,179> SMS Gateway Shutdown!
+2017-05-09 18:47:21,181> Forwarder: [vnpay] Received response PDU (unbind_resp: (pdu: 16 80000006 0 2) ) 
+2017-05-09 18:47:59,292> SMS Gateway Start!-----------------------------------------------------------------------------------------------
+2017-05-09 18:47:59,306> Oracle Initializes the connection pooling
+2017-05-09 18:47:59,504> Starting traffic watcher...
+2017-05-09 18:47:59,538> Forwarder: [vnpay] Bind request (bindreq: (pdu: 0 9 0 [1]) VNPTEST2 VNPTEST2 smpp 52 (addrrang: 1 1 ) ) 
+2017-05-09 18:47:59,617> Forwarder: [vnpay] Bind response (bindresp: (pdu: 29 80000009 0 1) Inetlab.SMPP) 
+2017-05-09 18:48:14,606> Forwarder: [vnpay] Enquire Link request (enquirelink: (pdu: 0 15 0 [2]) ) 
+2017-05-09 18:48:14,607> Forwarder: [vnpay] Received response PDU (enquirelink_resp: (pdu: 16 80000015 0 2) ) 
+2017-05-09 18:49:20,545> Forwarder: [vnpay] Enquire Link operation failed. java.lang.NullPointerException
+2017-05-09 18:49:20,545> Forwarder: [vnpay] Retry binding...
+2017-05-09 18:49:20,546> Forwarder: [vnpay] Received request PDU (deliver: (pdu: 55 5 0 1) (addr: 0 0 84983551065)  (addr: 1 1 8049)  (sm: msg: sd 1123)  (opt: ) ) 
+2017-05-09 18:49:20,546> Forwarder: [vnpay] Insert to log table DELIVER_SM and Insert to MO_Queue here ...
+2017-05-09 18:49:20,547> Forwarder: [vnpay] Unbind response (unbind_resp: (pdu: 16 80000006 0 3) ) 
+2017-05-09 18:49:20,547> Forwarder: [vnpay] Bind request (bindreq: (pdu: 0 9 0 [4]) VNPTEST2 VNPTEST2 smpp 52 (addrrang: 1 1 ) ) 
+2017-05-09 18:49:20,547> Forwarder: [vnpay] Response PDU (deliver_resp: (pdu: 0 80000005 0 1)  ) 
+2017-05-09 18:49:20,547> Forwarder: [vnpay] Receiving failed. java.lang.NullPointerException
+2017-05-09 18:49:20,547> Forwarder: [vnpay] Restart Gateway...
+2017-05-09 18:49:20,547> Forwarder: [vnpay] Not bound, cannot unbind.
+2017-05-09 18:49:20,615> Forwarder: [vnpay] Bind response (bindresp: (pdu: 29 80000009 0 4) Inetlab.SMPP) 
+2017-05-09 18:49:35,548> Forwarder: [vnpay] Already bound, unbind first.
+2017-05-09 18:49:35,617> Forwarder: [vnpay] Enquire Link request (enquirelink: (pdu: 0 15 0 [5]) ) 
+2017-05-09 18:49:35,619> Forwarder: [vnpay] Received response PDU (enquirelink_resp: (pdu: 16 80000015 0 5) ) 
+2017-05-09 18:50:35,622> Forwarder: [vnpay] Enquire Link operation failed. java.lang.NullPointerException
+2017-05-09 18:50:35,622> Forwarder: [vnpay] Retry binding...
+2017-05-09 18:50:35,623> Forwarder: [vnpay] Received response PDU (unbind_resp: (pdu: 16 80000006 0 6) ) 
